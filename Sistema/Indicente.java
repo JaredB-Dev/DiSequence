@@ -3,6 +3,8 @@ import java.util.List;
 import java.time.LocalDateTime;
 
 public class Indicente {
+    private Usuario responsable;
+    protected PersonalAcademico beneficiario;
     protected int id;
     protected LocalDateTime fecha_reportado;
     protected String estado;

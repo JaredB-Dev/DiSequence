@@ -1,6 +1,8 @@
 package Sistema;
+import java.util.List;
 
 public class Usuario{
+    protected List<Indicente> incidentes;
     protected String usuario;
     protected String contrasena;
     protected String nombre;
