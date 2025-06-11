@@ -5,8 +5,7 @@ Taller: Diagramas de Secuencia
 <img src = "resultado/r1.png">
 
 ## Imagen 2
-<img src = "resultado/r2.png">
+<img src = "resultado/r3.png">
 
 ## Imagen 3
-![image](https://github.com/user-attachments/assets/ae6bbc49-cb74-4166-b307-35491f8302cd)
-
+<img src = "resultado/r2.png">
